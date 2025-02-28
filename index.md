@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Adhasola | Berita Tribun
 ---
 
